@@ -11,6 +11,9 @@ function App() {
           <li>
             <Link to="/posts">Posts</Link>
           </li>
+          <li>
+            <Link to="/add">Add post</Link>
+          </li>
         </ul>
       </nav>
       <Router />
